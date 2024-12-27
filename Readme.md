@@ -21,7 +21,7 @@ The information collected is used to:
 To deliver a seamless experience, the app may request access to:
 
 - **Camera**: For capturing and uploading plant images.
-- **Location**: To tag plantation sites accurately.
+- **Location**: This app requires access to your location to monitor the plantations you have planted.
 - **Internet**: For data synchronization with secure servers.
 - **Local Storage**: For temporary storage of user data.
 
